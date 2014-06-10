@@ -10,5 +10,5 @@ CPU Schedualing Algorithms Simulator
 <li> Priority Preemptive </li>
 </ol>
 </br>
-<h5> <a href="http://www.mediafire.com/download/8atbafplo17drl1/CPU.rar"> Complete Java project </a> </h5>
-<h5> <a href="http://www.mediafire.com/download/8atbafplo17drl1/CPU.rar"> jar version </a> </h5>
+<h5> <a href="http://goo.gl/aUuI2Z"> Complete Java project </a> </h5>
+<h5> <a href="http://goo.gl/xYM5xM"> jar version </a> </h5>
