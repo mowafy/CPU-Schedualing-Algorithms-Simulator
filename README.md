@@ -1,4 +1,4 @@
-##This repository is deprecated, the new one written in typescript [repo](https://github.com/Mowafy/CPU-Schedualing-Simulator)
+##This repository is deprecated, the new one written in typescript [go to repo](https://github.com/Mowafy/CPU-Schedualing-Simulator)
 
 CPU Schedualing Algorithms Simulator
 ====================================
