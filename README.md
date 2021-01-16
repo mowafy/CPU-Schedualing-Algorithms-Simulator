@@ -1,3 +1,5 @@
+This repository is deprecated, the new one written in typescript [repo](https://github.com/Mowafy/CPU-Schedualing-Simulator)
+
 CPU Schedualing Algorithms Simulator
 ====================================
 <h5>Track 6 CPU schedualing algorithms step by step.</h5>
